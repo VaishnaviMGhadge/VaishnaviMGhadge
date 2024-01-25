@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi M. Ghadge</h1>
 <h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">A passionate Learner! </h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavimghadge" alt="vaishnavimghadge" /></a> </p>
 
-- 🌱 I’m currently learning **AI,ML**
+- 🌱  Currently, I'm sharpening my skills in   **Python, sql, data anlysis, flask, statistics**
+- 🌱  Let's connect and learn together!
+-  🌱 Happy coding! 🚀
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
