@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavimghadge" alt="vaishnavimghadge" /></a> </p>
 
-- 🌱  Currently, I'm sharpening my skills in   **Python, sql, data anlysis, flask, statistics**
+- 🌱  Currently, I'm sharpening my skills in   **Python, sql, data analysis, flask, statistics,SQL,numpy,Pandas and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
 -  🌱 Happy coding! 🚀
 
