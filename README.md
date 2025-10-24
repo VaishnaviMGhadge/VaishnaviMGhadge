@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi M. Ghadge</h1>
-<h3 align="center">An Aspiring Data Scientist</h3>
+<h3 align="center">An Aspiring Data Analyst</h3>
 <h3 align="center">A passionate Learner! </h3>
 <h3 align="center">⭐Have Faith in God!⭐</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavimghadge" alt="vaishnavimghadge" /></a> </p>
 
-- 🌱  Currently, I'm sharpening my skills in   **Python, sql, data analysis, flask, statistics,SQL,numpy,Pandas and way more are awaitng 🤗!!!!**
+- 🌱  Currently, I'm sharpening my skills in   **Power Bi,SQL,SAP HANA ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
 -  🌱 Happy coding! 🚀
 
