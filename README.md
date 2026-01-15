@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi M. Ghadge</h1>
 <h3 align="center">Data Analyst || Power BI developer!</h3>
 <h3 align="center">📊 Turning raw data into meaningful insights using **Power BI, SQL & Python**</h3>
-<h3 align="center">⭐SQL, Power BI, Python and way to go farr!⭐</h3>
+<h3 align="center">⭐SQL, Power BI, Python and many more!⭐</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
