@@ -7,6 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
 
 <h2 align="left"><b></b>What I DO?</b></h2>
+<p align="left">- Build interactive **Power BI dashboards** using DAX and data modeling  
+- Analyze data with **SQL and Python (Pandas, NumPy)**  
+- Transform business questions into **actionable insights**</p>
 
 - 🌱  Currently, I'm sharpening my skills in   **Power Bi,DAX,SQL ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
