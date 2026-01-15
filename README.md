@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi M. Ghadge</h1>
-<h3 align="center">An Aspiring Data Analyst</h3>
-<h3 align="center">A passionate Learner! </h3>
-<h3 align="center">⭐Have Faith in God!⭐</h3>
+<h3 align="center">Data Analyst</h3>
+<h3 align="center">APower BI developer! </h3>
+<h3 align="center">⭐SQL, Power BI, Python and way to go farr!⭐</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavimghadge" alt="vaishnavimghadge" /></a> </p>
 
-- 🌱  Currently, I'm sharpening my skills in   **Power Bi,SQL,SAP HANA ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
+- 🌱  Currently, I'm sharpening my skills in   **Power Bi,DAX,SQL ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
 -  🌱 Happy Visualizations! 🚀
 
