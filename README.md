@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi M. Ghadge</h1>
-<h3 align="center">Data Analyst</h3>
-<h3 align="center">APower BI developer! </h3>
+<h3 align="center">Data Analyst || Power BI developer!</h3>
+<h3 align="center">📊 Turning raw data into meaningful insights using **Power BI, SQL & Python**</h3>
 <h3 align="center">⭐SQL, Power BI, Python and way to go farr!⭐</h3>
 
 
