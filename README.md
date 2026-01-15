@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishnavimghadge" alt="vaishnavimghadge" /></a> </p>
+
 
 - 🌱  Currently, I'm sharpening my skills in   **Power Bi,DAX,SQL ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
