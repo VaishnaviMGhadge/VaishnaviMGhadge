@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vaishnavi-madhukar-ghadge-47323319b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-madhukar-ghadge-47323319b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaishnavi-m-ghadge-47323319b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi-madhukar-ghadge-47323319b" height="30" width="40" /></a>
 <a href="https://kaggle.com/vaishnavighadge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnavighadge" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ghadgevaishnavi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ghadgevaishnavi9" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ghadgevaishnavi9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ghadgevaishnavi9" height="30" width="40" /></a>
