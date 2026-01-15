@@ -26,12 +26,10 @@
 
 <p align="left">
 
-  <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer">
+ <a href="https://powerbi.microsoft.com/desktop/" target="_blank" rel="noreferrer">
   <img 
-    src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg"
+    src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"
     alt="Power BI Desktop"
-    width="40"
-    height="40"
   />
 </a>
 
