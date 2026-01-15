@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavimghadge&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavimghadge" /> </p>
 
-
+<h2 align="left"><b></b>What I DO?</b></h2>
 
 - 🌱  Currently, I'm sharpening my skills in   **Power Bi,DAX,SQL ,Python, Pandas, Numpy  and way more are awaitng 🤗!!!!**
 - 🌱  Let's connect and learn together!
